@@ -1,20 +1,21 @@
 [{
-        "name": "test Name",
-        "description": "A test sub",
+        "name": "MovieDetails",
+        "description": "All the cool movie details you will ever need.",
         "id": 1
-    }, {
-        "name": "test Name 2",
-        "description": "A test sub 2",
+    },
+    {
+        "name": "Me_IRL",
+        "description": "You won't believe how accurate it is.",
         "id": 2
     },
     {
-        "name": "test Name 3",
-        "description": "A test sub 3",
+        "name": "Baby Elephant Gifs",
+        "description": "Name says it all.",
         "id": 3
     },
     {
-        "name": "test Name 4",
-        "description": "A test sub 4",
+        "name": "BearsDoingHumanThings",
+        "description": "What is a bear but a furry human?",
         "id": 4
     }
 ]

@@ -6,9 +6,7 @@ Time to build out an app in flask!
 
 ### Virtual env
 
-```
-$ mkdir redd && cd redd
-```
+Step one. Clone down this repo. Then cd into the directory and let's take a look at what's inside..
 
 ```
 $ pip3 install virtualenv
@@ -35,9 +33,9 @@ $ pip3 freeze > requirements.txt
 
 ### The App
 
-We are going to recreate one of my favorite websites! Reddit.
+We are going to recreate some the the basic features of one of my favorite websites! Reddit.
 
-in app.py:
+In app.py:
 
 ```py
 from flask import Flask, g
@@ -74,7 +72,7 @@ Now that we have it up and running let's start making some templates.
 
 Let's create the inital index view and break down the index function.
 
-in App.js:
+An App.py:
 
 ```py
 @app.route('/')
